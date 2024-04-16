@@ -60,6 +60,7 @@
     color: #333;
     cursor: pointer;
     font-size: 20px;
+    transition: background-color 1s ease;
 }
 .input-box button:hover{
     cursor: pointer;
